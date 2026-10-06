@@ -4,8 +4,34 @@
 <p align="center"><strong>Aspiring SOC Analyst · Cybersecurity Practitioner · Blue Team</strong></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1300&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=740&amp;height=45&amp;lines=Turning+endpoint+telemetry+into+tested+detections%3BFollowing+attack+timelines+through+cloud+logs%3BBuilding+automation+for+security+operations" width="740" alt="Turning endpoint telemetry into tested detections · Investigating cloud logs · Building security automation"></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;color=0A66C2&amp;labelColor=0d1117&amp;style=flat" height="24" alt="LinkedIn Connect"></a> &nbsp; <img src="https://img.shields.io/static/v1?label=Primary+SIEM&amp;message=Splunk&amp;color=115e59&amp;labelColor=0d1117&amp;style=flat&amp;logo=splunk&amp;logoColor=67e8f9" height="24" alt="Primary SIEM Splunk"> &nbsp; <img src="https://img.shields.io/static/v1?label=Open+to&amp;message=Entry-level+SOC+roles&amp;color=166534&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Open to Entry-level SOC roles">
+<img src="https://img.shields.io/static/v1?label=Slogan&amp;message=Follow+the+Evidence&amp;color=7C3AED&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Slogan: Follow the Evidence">
 </p>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Focus&amp;message=SOC+%7C+Detection+%7C+AWS+Security&amp;color=1565C0&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Focus: SOC | Detection | AWS Security">
+</p>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=SIEM&amp;message=Splunk&amp;color=0F766E&amp;labelColor=253244&amp;style=for-the-badge&amp;logo=splunk&amp;logoColor=white" height="28" alt="SIEM: Splunk"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=Detection&amp;message=Sigma+%7C+Sysmon&amp;color=2563EB&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Detection: Sigma | Sysmon">
+</p>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Automation&amp;message=Shuffle+%7C+AWS+Lambda&amp;color=D97706&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Automation: Shuffle | AWS Lambda"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=Approach&amp;message=Hands-on+labs&amp;color=047857&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Approach: Hands-on labs">
+</p>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Certified&amp;message=CCSA&amp;color=0E7490&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Certified: CCSA"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=Diploma&amp;message=EduQual+Level+3&amp;color=6366F1&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Diploma: EduQual Level 3">
+</p>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Open+to&amp;message=Entry-level+SOC+roles&amp;color=15803D&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="Open to: Entry-level SOC roles">
+</p>
+<p align="center"><code>Observe → Investigate → Detect → Validate → Document</code></p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;color=0A66C2&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="LinkedIn: Connect"></a> &nbsp;
+<a href="mailto:musfira2296@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&amp;message=Get+in+touch&amp;color=C0394B&amp;labelColor=253244&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email: Get in touch"></a> &nbsp;
+<a href="https://github.com/MUSFIRA-ZAFAR"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=My+portfolio&amp;color=181717&amp;labelColor=253244&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" height="28" alt="GitHub: My portfolio"></a>
+</p>
+
 <p align="center"><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#evidence">Evidence</a> · <a href="#skills">Skills</a> · <a href="#credentials">Credentials</a> · <a href="#direction">Goals</a> · <a href="#connect">Connect</a></p>
 
 ---
@@ -23,15 +49,6 @@ My interest is in understanding what happened behind an alert: which account was
 I share my work through investigation reports, detection queries, screenshots, and troubleshooting notes so others can follow the reasoning and reproduce the labs.
 
 <p align="center"><code>Build → Observe → Investigate → Detect → Validate → Document</code></p>
-
-<table>
-<tr>
-<td width="25%" align="center"><strong>10</strong><br>Featured repositories</td>
-<td width="25%" align="center"><strong>2</strong><br>Agent Tesla Sigma rules validated</td>
-<td width="25%" align="center"><strong>6 / 356</strong><br>Key cloud incident events / logged actions</td>
-<td width="25%" align="center"><strong>2 branches</strong><br>SOAR isolation and skip paths tested</td>
-</tr>
-</table>
 
 <details>
 <summary><strong>📊 Portfolio snapshot — expand to see my areas of practical work</strong></summary>
@@ -279,10 +296,6 @@ Longer term, I plan to pursue a **BS in Computer Science** and grow into detecti
 
 ## 📈 GitHub Activity
 
-<p align="center">
-<a href="https://github.com/MUSFIRA-ZAFAR?tab=followers"><img src="https://img.shields.io/github/followers/MUSFIRA-ZAFAR?style=flat&amp;label=Followers&amp;labelColor=0d1117&amp;color=155e75&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub Followers"></a> &nbsp; <a href="https://github.com/MUSFIRA-ZAFAR?tab=repositories"><img src="https://img.shields.io/github/stars/MUSFIRA-ZAFAR?style=flat&amp;label=Stars&amp;labelColor=0d1117&amp;color=115e59&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub Stars"></a>
-</p>
-
 <details>
 <summary><strong>🗓️ Explore recent project updates and contributions</strong></summary>
 
@@ -303,8 +316,12 @@ Longer term, I plan to pursue a **BS in Computer Science** and grow into detecti
 I'm interested in **blue-team collaboration, detection engineering, cloud investigations, and entry-level security opportunities**.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Musfira+Zafar&amp;color=0A66C2&amp;labelColor=0d1117&amp;style=flat" height="28" alt="LinkedIn Musfira Zafar"></a> &nbsp; <a href="https://github.com/MUSFIRA-ZAFAR"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=Explore+my+work&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=github&amp;logoColor=67e8f9" height="28" alt="GitHub Explore my work"></a>
+<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;color=0A66C2&amp;labelColor=253244&amp;style=for-the-badge" height="28" alt="LinkedIn: Connect"></a> &nbsp;
+<a href="mailto:musfira2296@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&amp;message=Get+in+touch&amp;color=C0394B&amp;labelColor=253244&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email: Get in touch"></a> &nbsp;
+<a href="https://github.com/MUSFIRA-ZAFAR"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=My+portfolio&amp;color=181717&amp;labelColor=253244&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" height="28" alt="GitHub: My portfolio"></a>
 </p>
+
+<p align="center"><a href="mailto:musfira2296@gmail.com">musfira2296@gmail.com</a></p>
 
 <p align="center"><sub>Based in Pakistan · Open to remote opportunities accepting candidates in Pakistan</sub></p>
 
