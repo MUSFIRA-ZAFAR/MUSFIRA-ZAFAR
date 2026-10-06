@@ -4,9 +4,7 @@
 <p align="center"><strong>Aspiring SOC Analyst · Cybersecurity Practitioner · Blue Team</strong></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1300&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=740&amp;height=45&amp;lines=Turning+endpoint+telemetry+into+tested+detections%3BFollowing+attack+timelines+through+cloud+logs%3BBuilding+automation+for+security+operations" width="740" alt="Turning endpoint telemetry into tested detections · Investigating cloud logs · Building security automation"></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
-<img src="https://img.shields.io/badge/Primary_SIEM-Splunk-111827?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Primary SIEM: Splunk">
-<img src="https://img.shields.io/badge/Open_to-Entry_Level_SOC_Roles-15803D?style=for-the-badge" alt="Open to entry-level SOC roles">
+<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;color=0A66C2&amp;labelColor=0d1117&amp;style=flat" height="24" alt="LinkedIn Connect"></a> &nbsp; <img src="https://img.shields.io/static/v1?label=Primary+SIEM&amp;message=Splunk&amp;color=115e59&amp;labelColor=0d1117&amp;style=flat&amp;logo=splunk&amp;logoColor=67e8f9" height="24" alt="Primary SIEM Splunk"> &nbsp; <img src="https://img.shields.io/static/v1?label=Open+to&amp;message=Entry-level+SOC+roles&amp;color=166534&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Open to Entry-level SOC roles">
 </p>
 <p align="center"><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#evidence">Evidence</a> · <a href="#skills">Skills</a> · <a href="#credentials">Credentials</a> · <a href="#direction">Goals</a> · <a href="#connect">Connect</a></p>
 
@@ -193,32 +191,32 @@ flowchart TD
 **SIEM & Detection**
 
 <p>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk">
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge" alt="Sysmon">
-<img src="https://img.shields.io/badge/Sigma-2563EB?style=for-the-badge" alt="Sigma">
-<img src="https://img.shields.io/badge/Chainsaw-0F766E?style=for-the-badge" alt="Chainsaw">
-<img src="https://img.shields.io/badge/Wazuh-0284C7?style=for-the-badge" alt="Wazuh">
+<img src="https://img.shields.io/static/v1?label=&amp;message=Splunk&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=splunk&amp;logoColor=67e8f9" height="24" alt="Splunk"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Sysmon&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Sysmon"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Sigma&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Sigma"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Chainsaw&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Chainsaw"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Wazuh&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Wazuh">
 </p>
 
 **Cloud & Automation**
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
-<img src="https://img.shields.io/badge/CloudTrail-D97706?style=for-the-badge" alt="CloudTrail">
-<img src="https://img.shields.io/badge/Athena_SQL-7C3AED?style=for-the-badge" alt="Athena SQL">
-<img src="https://img.shields.io/badge/Lambda-F59E0B?style=for-the-badge" alt="Lambda">
-<img src="https://img.shields.io/badge/Shuffle_SOAR-EA580C?style=for-the-badge" alt="Shuffle SOAR">
-<img src="https://img.shields.io/badge/AbuseIPDB-DC2626?style=for-the-badge" alt="AbuseIPDB">
+<img src="https://img.shields.io/static/v1?label=&amp;message=AWS&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="AWS"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=CloudTrail&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="CloudTrail"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Athena+SQL&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Athena SQL"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Lambda&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Lambda"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Shuffle+SOAR&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="Shuffle SOAR"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=AbuseIPDB&amp;color=172033&amp;labelColor=0d1117&amp;style=flat" height="24" alt="AbuseIPDB">
 </p>
 
 **Investigation & Development**
 
 <p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+<img src="https://img.shields.io/static/v1?label=&amp;message=Wireshark&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=wireshark&amp;logoColor=67e8f9" height="24" alt="Wireshark"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=python&amp;logoColor=67e8f9" height="24" alt="Python"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Flask&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=flask&amp;logoColor=67e8f9" height="24" alt="Flask"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Linux&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=linux&amp;logoColor=67e8f9" height="24" alt="Linux"> &nbsp;
+<img src="https://img.shields.io/static/v1?label=&amp;message=Docker&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=docker&amp;logoColor=67e8f9" height="24" alt="Docker">
 </p>
 
 <details>
@@ -241,10 +239,16 @@ flowchart TD
 
 ## 🎓 Education & Certification
 
-- **EduQual Level 3 Diploma in Cloud Cyber Security** — Al Nafi International College · Completed with **91%**
-- **Cybrixen Certified SOC Analyst (CCSA)** — Practical assessment covering SIEM/EDR investigations, alert correlation, attack timelines, true/false positive classification, and escalation
-- **FSc** — Completed in 2024 · **89.583%**
-- **Student of the Year** — Awarded by my FSc college
+<p>
+<img src="https://img.shields.io/static/v1?label=CCSA&amp;message=Certified&amp;color=155e75&amp;labelColor=0d1117&amp;style=flat" height="24" alt="CCSA Certified"> &nbsp; <img src="https://img.shields.io/static/v1?label=EduQual+Level+3&amp;message=91%25&amp;color=115e59&amp;labelColor=0d1117&amp;style=flat" height="24" alt="EduQual Level 3 91%">
+</p>
+
+| Qualification | Achievement |
+| --- | --- |
+| **EduQual Level 3 Diploma in Cloud Cyber Security** | Al Nafi International College · **91%** |
+| **Cybrixen Certified SOC Analyst (CCSA)** | Practical SIEM/EDR assessment: investigations, alert correlation, timelines, true/false positives, and escalation |
+| **FSc · 2024** | **89.583%** |
+| **Student of the Year** | Awarded by my FSc college |
 
 ## 💼 Experience & Community
 
@@ -276,8 +280,7 @@ Longer term, I plan to pursue a **BS in Computer Science** and grow into detecti
 ## 📈 GitHub Activity
 
 <p align="center">
-<a href="https://github.com/MUSFIRA-ZAFAR?tab=followers"><img src="https://img.shields.io/github/followers/MUSFIRA-ZAFAR?style=for-the-badge&amp;label=Followers&amp;color=2563eb" alt="GitHub followers"></a>
-<a href="https://github.com/MUSFIRA-ZAFAR?tab=repositories"><img src="https://img.shields.io/github/stars/MUSFIRA-ZAFAR?style=for-the-badge&amp;label=Portfolio%20Stars&amp;color=0891b2" alt="GitHub portfolio stars"></a>
+<a href="https://github.com/MUSFIRA-ZAFAR?tab=followers"><img src="https://img.shields.io/github/followers/MUSFIRA-ZAFAR?style=flat&amp;label=Followers&amp;labelColor=0d1117&amp;color=155e75&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub Followers"></a> &nbsp; <a href="https://github.com/MUSFIRA-ZAFAR?tab=repositories"><img src="https://img.shields.io/github/stars/MUSFIRA-ZAFAR?style=flat&amp;label=Stars&amp;labelColor=0d1117&amp;color=115e59&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub Stars"></a>
 </p>
 
 <details>
@@ -285,9 +288,9 @@ Longer term, I plan to pursue a **BS in Computer Science** and grow into detecti
 
 | Project | Latest repository commit |
 | --- | --- |
-| [Agent Tesla detection lab](https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab/commits) | ![Latest Agent Tesla commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab?style=flat-square&color=0891b2) |
-| [Cloud log auditing](https://github.com/MUSFIRA-ZAFAR/secops-cloud-log-auditing/commits) | ![Latest cloud auditing commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/secops-cloud-log-auditing?style=flat-square&color=0891b2) |
-| [IP isolation playbook](https://github.com/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook/commits) | ![Latest SOAR commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook?style=flat-square&color=0891b2) |
+| [Agent Tesla detection lab](https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab/commits) | ![Latest Agent Tesla commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab?style=flat&label=Updated&labelColor=0d1117&color=155e75) |
+| [Cloud log auditing](https://github.com/MUSFIRA-ZAFAR/secops-cloud-log-auditing/commits) | ![Latest cloud auditing commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/secops-cloud-log-auditing?style=flat&label=Updated&labelColor=0d1117&color=155e75) |
+| [IP isolation playbook](https://github.com/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook/commits) | ![Latest SOAR commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook?style=flat&label=Updated&labelColor=0d1117&color=155e75) |
 
 [View my contribution calendar on GitHub](https://github.com/MUSFIRA-ZAFAR) · [Browse all repositories](https://github.com/MUSFIRA-ZAFAR?tab=repositories)
 
@@ -295,15 +298,19 @@ Longer term, I plan to pursue a **BS in Computer Science** and grow into detecti
 
 <a id="connect"></a>
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-I'm interested in blue-team projects, detection engineering, cloud investigations, and opportunities to learn with other cybersecurity practitioners.
+I'm interested in **blue-team collaboration, detection engineering, cloud investigations, and entry-level security opportunities**.
 
-[LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
+<p align="center">
+<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Musfira+Zafar&amp;color=0A66C2&amp;labelColor=0d1117&amp;style=flat" height="28" alt="LinkedIn Musfira Zafar"></a> &nbsp; <a href="https://github.com/MUSFIRA-ZAFAR"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=Explore+my+work&amp;color=172033&amp;labelColor=0d1117&amp;style=flat&amp;logo=github&amp;logoColor=67e8f9" height="28" alt="GitHub Explore my work"></a>
+</p>
+
+<p align="center"><sub>Based in Pakistan · Open to remote opportunities accepting candidates in Pakistan</sub></p>
 
 ---
 
 <p align="center"><em>Build the environment. Follow the evidence. Validate the detection. Share the learning.</em></p>
-
-
 <p align="center"><a href="#about">↑ Back to top</a></p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0d1117%2C50%3A12395c%2C100%3A22d3ee&amp;height=100&amp;section=footer" width="100%" alt="Blue and cyan wave footer"></p>
