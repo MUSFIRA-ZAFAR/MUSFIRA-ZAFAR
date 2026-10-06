@@ -262,10 +262,8 @@ flowchart TD
 
 | Qualification | Achievement |
 | --- | --- |
-| **EduQual Level 3 Diploma in Cloud Cyber Security** | Al Nafi International College · **91%** |
+| **EduQual Level 3 Diploma in Cloud Cyber Security** | Completed with **91%** |
 | **Cybrixen Certified SOC Analyst (CCSA)** | Practical SIEM/EDR assessment: investigations, alert correlation, timelines, true/false positives, and escalation |
-| **FSc · 2024** | **89.583%** |
-| **Student of the Year** | Awarded by my FSc college |
 
 ## 💼 Experience & Community
 
