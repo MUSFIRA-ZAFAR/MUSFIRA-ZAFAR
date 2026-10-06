@@ -1,92 +1,309 @@
-<h1 align="center">Hi, I'm Musfira Zafar 👋</h1>
+<!-- Profile README for MUSFIRA-ZAFAR/MUSFIRA-ZAFAR -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0d1117%2C50%3A12395c%2C100%3A22d3ee&amp;height=230&amp;section=header&amp;text=MUSFIRA+ZAFAR&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Security+Operations+%7C+Detection+Engineering+%7C+Cloud+Security&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Musfira Zafar — Security Operations, Detection Engineering and Cloud Security"></p>
+<h1 align="center">Hi, I'm Musfira 👋</h1>
+<p align="center"><strong>Aspiring SOC Analyst · Cybersecurity Practitioner · Blue Team</strong></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1300&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=740&amp;height=45&amp;lines=Turning+endpoint+telemetry+into+tested+detections%3BFollowing+attack+timelines+through+cloud+logs%3BBuilding+automation+for+security+operations" width="740" alt="Turning endpoint telemetry into tested detections · Investigating cloud logs · Building security automation"></p>
 <p align="center">
-  <b>Cybersecurity Student</b> · Aspiring SOC Analyst · Lifelong Learner
+<a href="https://www.linkedin.com/in/musfira-zafar/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
+<img src="https://img.shields.io/badge/Primary_SIEM-Splunk-111827?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Primary SIEM: Splunk">
+<img src="https://img.shields.io/badge/Open_to-Entry_Level_SOC_Roles-15803D?style=for-the-badge" alt="Open to entry-level SOC roles">
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/musfira-zafar/">
-    <img src="https://img.shields.io/badge/LinkedIn-musfira--zafar-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-SOC%20Analyst-1D9E75?style=flat&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Networking%20%7C%20Security-378ADD?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-F0997B?style=flat" />
-</p>
+<p align="center"><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#evidence">Evidence</a> · <a href="#skills">Skills</a> · <a href="#credentials">Credentials</a> · <a href="#direction">Goals</a> · <a href="#connect">Connect</a></p>
 
-👩‍💻 About Me
-I'm a cybersecurity student with a strong passion for SOC (Security Operations Center) work — monitoring, detecting, and responding to threats. I believe in learning in public — every concept I study gets documented here so others can learn alongside me.
+---
 
-🔭 Currently studying: Networking fundamentals via Professor Messer
-🌱 Topics covered so far: OSI Model, Routers, Switches, Firewalls, IDS/IPS, Load Balancers, Proxies
-🎯 Goal: Land my first role as a SOC Analyst
-📢 I post daily networking & security content on LinkedIn
-📍 Based in Multan, Pakistan
+<a id="about"></a>
 
+## 👩‍💻 Behind the Portfolio
 
-🛠️ Skills & Tools
+I'm a cybersecurity practitioner from Multan, Pakistan, working toward my first **SOC Analyst / Cybersecurity Analyst role**. I completed an **EduQual Level 3 Diploma in Cloud Cyber Security with 91%** and earned the **Cybrixen Certified SOC Analyst (CCSA)** certification.
+
+My interest is in understanding what happened behind an alert: which account was involved, what process ran, how the activity developed, and what evidence supports the next response step. My projects cover Windows endpoint monitoring, Splunk detections, malware behavior analysis, AWS log investigations, and automated containment.
+
+**Splunk is my primary SIEM.** I also have project experience with Wazuh, Sysmon, Sigma, Chainsaw, Wireshark, AWS CloudTrail, Amazon Athena, and Shuffle.
+
+I share my work through investigation reports, detection queries, screenshots, and troubleshooting notes so others can follow the reasoning and reproduce the labs.
+
+<p align="center"><code>Build → Observe → Investigate → Detect → Validate → Document</code></p>
+
+<table>
+<tr>
+<td width="25%" align="center"><strong>10</strong><br>Featured repositories</td>
+<td width="25%" align="center"><strong>2</strong><br>Agent Tesla Sigma rules validated</td>
+<td width="25%" align="center"><strong>6 / 356</strong><br>Key cloud incident events / logged actions</td>
+<td width="25%" align="center"><strong>2 branches</strong><br>SOAR isolation and skip paths tested</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>📊 Portfolio snapshot — expand to see my areas of practical work</strong></summary>
+
+## 📌 Portfolio at a Glance
+
+| Area | What I've built or investigated |
+| --- | --- |
+| **SOC monitoring** | Windows log collection, RDP brute-force detection, SPL searches, and Splunk dashboards |
+| **Detection engineering** | Sigma rules validated against Sysmon logs, command-line hunting, and MITRE ATT&CK mapping |
+| **Cloud security** | CloudTrail → S3 → Athena logging and SQL investigation of simulated IAM compromise |
+| **Security automation** | Shuffle playbook connecting IP enrichment, conditional EC2 isolation, and Slack notification |
+| **Network investigations** | Emotet traffic analysis, C2 identification, IOC extraction, and Windows attack investigations |
+| **Security tooling** | Python web scanner with a CLI, Flask interface, and Markdown/PDF reporting |
+| **Industrial security** | MQTT authentication and TLS, Node-RED monitoring, and Wazuh alerts in an Industry 4.0 demo |
+
+</details>
+
+<a id="projects"></a>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🦠 Agent Tesla Detection</h3>
+<p>Turned sandbox observations into persistence and C2 Sigma rules, validated using controlled reproductions.</p>
+<p><code>ANY.RUN · Sigma · Sysmon · Chainsaw</code></p>
+<p><strong>Evidence:</strong> Two rules matched real endpoint telemetry.</p>
+<p><a href="https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab"><strong>Explore project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Cloud Incident Investigation</h3>
+<p>Built cloud logging and investigated a simulated IAM compromise using raw CloudTrail evidence.</p>
+<p><code>CloudTrail · S3 · Athena SQL · IAM</code></p>
+<p><strong>Evidence:</strong> Six key events reconstructed from 356 logged actions.</p>
+<p><a href="https://github.com/MUSFIRA-ZAFAR/secops-cloud-log-auditing"><strong>Explore project →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ Automated Threat Isolation</h3>
+<p>Connected IP reputation enrichment to conditional quarantine of a lab EC2 instance and analyst notification.</p>
+<p><code>Shuffle · AbuseIPDB · Lambda · EC2</code></p>
+<p><strong>Evidence:</strong> Low-score skip and high-score isolation paths verified.</p>
+<p><a href="https://github.com/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook"><strong>Explore project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔎 Splunk Endpoint Detection</h3>
+<p>Built Windows log forwarding, SPL detections, and a dashboard for RDP brute-force investigation.</p>
+<p><code>Splunk · SPL · Sysmon · Forwarder</code></p>
+<p><strong>Evidence:</strong> 15 failed logons followed by one successful authentication.</p>
+<p><a href="https://github.com/MUSFIRA-ZAFAR/RDP-Brute-Force-Detection"><strong>Explore project →</strong></a></p>
+</td>
+</tr>
+</table>
+
+## 📁 More of My Work
+
+| Project | What I did | Main tools |
+| --- | --- | --- |
+| [AD Kerberoasting Detection](https://github.com/MUSFIRA-ZAFAR/AD-Kerberoasting-Detection) | Built an AWS-hosted Samba AD lab, simulated Kerberoasting, investigated RC4 service-ticket requests in Samba logs, and documented response actions and a Sigma detection rule | Samba AD, Impacket, Kerberos tools, John the Ripper, Sigma |
+| [FortifyWebX Scanner](https://github.com/MUSFIRA-ZAFAR/fortifywebx-scanner) | Built a crawler with five passive checks, severity scoring, CLI/web interfaces, and Markdown/PDF reports; tested with Juice Shop and DVWA | Python, Flask, Requests, BeautifulSoup, Docker |
+| [SOC Investigations](https://github.com/MUSFIRA-ZAFAR/soc-investigations) | Investigated Emotet PCAP traffic, RDP brute-force activity, and Windows attack simulations; extracted IOCs and wrote investigation reports | Wireshark, VirusTotal, Event Viewer, Hydra |
+| [Industry 4.0 Security](https://github.com/MUSFIRA-ZAFAR/Industry-4.0-Security) | Implemented MQTT authentication and TLS, built a sensor dashboard, and demonstrated Wazuh brute-force alerts with IEC 62443/NIST CSF mappings | Mosquitto, OpenSSL, Node-RED, Wazuh, Ubuntu |
+| [Networking Notes](https://github.com/MUSFIRA-ZAFAR/networking-notes) | Documented networking fundamentals, protocols, subnetting, monitoring, and their relevance to SOC investigations | OSI/TCP-IP, DNS, DHCP, VLANs, VPNs, IDS/IPS |
+
+<a id="evidence"></a>
+
+## 🧪 Inside the Investigations
+
+<details>
+<summary><strong>🦠 Agent Tesla — analysis, validation, and scope</strong></summary>
+
+[Explore the repository](https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab)
+
+- Analyzed an existing **ANY.RUN public sandbox report** to identify Agent Tesla scheduled-task persistence and SMTP-based C2 behavior.
+- Extracted indicators and mapped findings to **T1053.005** and **T1071.003**.
+- Wrote **two Sigma rules**: a behavior-based persistence rule and an indicator-based C2 rule.
+- Reproduced the persistence pattern and a DNS lookup on an AWS Windows host, then confirmed both rules matched **real Sysmon logs using Chainsaw**.
+
+**Scope:** validation used controlled behavior reproduction; the malware binary was not executed on the AWS host. The rules remain experimental.
+
+</details>
+
+<details>
+<summary><strong>☁️ AWS compromise — evidence and behavioral detections</strong></summary>
+
+[Explore the repository](https://github.com/MUSFIRA-ZAFAR/secops-cloud-log-auditing)
+
+- Built a **CloudTrail → S3 → Amazon Athena** pipeline.
+- Simulated compromised credentials, a login without MFA, IAM privilege escalation, and an unauthorized EC2 launch in my own lab account.
+- Investigated the raw logs with SQL and reconstructed **six key events from 356 logged actions**.
+- Added behavioral queries for self-escalation and baseline deviation, including review of legitimate activity flagged as anomalous.
+
+</details>
+
+<details>
+<summary><strong>⚙️ SOAR playbook — tested branches and lab boundaries</strong></summary>
+
+[Explore the repository](https://github.com/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook)
+
+- Built a **Shuffle → AbuseIPDB → AWS Lambda → EC2 quarantine → Slack** workflow.
+- Used an abuse-confidence threshold **greater than 80** to trigger a security-group change on the lab instance.
+- Verified both branches: low-score input skipped isolation; high-score input triggered isolation and notification.
+- Documented troubleshooting and the authentication, IAM, and asset-mapping changes needed before production use.
+
+</details>
+
+<details>
+<summary><strong>🔎 Splunk labs — RDP correlation and command-line hunting</strong></summary>
+
+[RDP Brute-Force Detection](https://github.com/MUSFIRA-ZAFAR/RDP-Brute-Force-Detection) · [LotL Command-Line Hunting](https://github.com/MUSFIRA-ZAFAR/Lotl-command-line-hunting)
+
+- Built a Windows-to-Splunk log pipeline using **Sysmon and Splunk Universal Forwarder**.
+- Investigated **15 failed RDP logons followed by one successful authentication**, using Windows events **4625 and 4624**.
+- Created SPL searches and a dashboard to show failed attempts and the subsequent successful logon.
+- Captured the `vssadmin.exe delete shadows` command pattern with **Sysmon Event ID 1**, examined process context, and validated an SPL hunt against the ingested evidence.
+
+</details>
+
+<details>
+<summary><strong>🖼️ View Agent Tesla detection evidence</strong></summary>
+
+**Persistence rule:** Chainsaw match for the controlled scheduled-task reproduction.
+
+![Chainsaw persistence match](https://raw.githubusercontent.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab/main/screenshots/05-validation/04-chainsaw-persistence-rule-hit.png)
+
+**C2 indicator rule:** Chainsaw match for a DNS lookup of the analyzed indicator.
+
+![Chainsaw DNS indicator match](https://raw.githubusercontent.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab/main/screenshots/05-validation/07-chainsaw-c2-rule-hit-final.png)
+
+[Read the complete validation record](https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab#-validation--proof-of-detection)
+
+</details>
+
+<details>
+<summary><strong>🧭 View the SOAR playbook decision flow</strong></summary>
+
+This diagram represents the individual IP threat isolation lab.
+
+```mermaid
+flowchart TD
+    A["Suspicious IP alert"] --> B["AbuseIPDB enrichment"]
+    B --> C{"Score greater than 80?"}
+    C -->|Yes| D["Lambda: quarantine lab EC2"]
+    C -->|No| E["Skip isolation"]
+    D --> F["Slack notification"]
+```
+
+</details>
+
+<a id="skills"></a>
+
+## 🛠️ Technical Toolkit
+
+**SIEM & Detection**
+
 <p>
-  <img src="https://img.shields.io/badge/Networking-Fundamentals-1D9E75?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSI%20Model-Layer%201--7-378ADD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firewalls-IDS%2FIPS-D85A30?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Basics-5F5E5A?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Learning-EF9F27?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Prep%20in%20Progress-D4537E?style=flat-square" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk">
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge" alt="Sysmon">
+<img src="https://img.shields.io/badge/Sigma-2563EB?style=for-the-badge" alt="Sigma">
+<img src="https://img.shields.io/badge/Chainsaw-0F766E?style=for-the-badge" alt="Chainsaw">
+<img src="https://img.shields.io/badge/Wazuh-0284C7?style=for-the-badge" alt="Wazuh">
 </p>
 
-📁 Repositories
-RepoWhat's inside📡 networking-notesOSI Model, devices, protocols — my daily learning log from Professor Messer🔐 cybersecurity-labsHands-on cybersecurity lab work from my college coursework📋 comptia-prepNetwork+ / Security+ study notes, cheat sheets, practice Q&A🐍 python-for-securityBeginner security scripts: port scanner, password checker, log parser
+**Cloud & Automation**
 
-📚 Currently Learning
-✅ OSI Model — 7 Layers mapped to real-world scenarios
-✅ Networking Devices — Routers, Switches, Firewalls
-✅ IDS & IPS — Intrusion Detection vs Prevention
-✅ Load Balancers & Proxies
-🔄 Next up: TCP/IP Model, Subnetting, VLANs
-
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUSFIRA-ZAFAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUSFIRA-ZAFAR&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-🗺️ My Roadmap
-Phase 1 — Foundation (Now)
-  ├── Networking fundamentals (Professor Messer)
-  ├── Daily LinkedIn posts + GitHub notes
-  └── OSI, Devices, Protocols
-
-Phase 2 — Hands-on
-  ├── TryHackMe labs & CTF challenges
-  ├── Python scripting for security
-  └── First cybersecurity writeups
-
-Phase 3 — Certification
-  ├── CompTIA Network+ prep
-  ├── CompTIA Security+ prep
-  └── Home lab setup & documentation
-
-📬 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/musfira-zafar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+<img src="https://img.shields.io/badge/CloudTrail-D97706?style=for-the-badge" alt="CloudTrail">
+<img src="https://img.shields.io/badge/Athena_SQL-7C3AED?style=for-the-badge" alt="Athena SQL">
+<img src="https://img.shields.io/badge/Lambda-F59E0B?style=for-the-badge" alt="Lambda">
+<img src="https://img.shields.io/badge/Shuffle_SOAR-EA580C?style=for-the-badge" alt="Shuffle SOAR">
+<img src="https://img.shields.io/badge/AbuseIPDB-DC2626?style=for-the-badge" alt="AbuseIPDB">
 </p>
+
+**Investigation & Development**
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
+
+<details>
+<summary><strong>📋 Expand the skills and practical experience matrix</strong></summary>
+
+| Domain | Tools and practical experience |
+| --- | --- |
+| **SIEM & log analysis** | Splunk Enterprise, SPL, Universal Forwarder, dashboards, Windows Event Logs; Wazuh project experience |
+| **Endpoint detection** | Sysmon, Event Viewer, Sigma, Chainsaw, process lineage and command-line analysis |
+| **Threat intelligence** | ANY.RUN report analysis, VirusTotal, AbuseIPDB, IOC extraction and MITRE ATT&CK mapping |
+| **Cloud security** | AWS EC2, IAM, security groups, CloudTrail, S3, Athena SQL and Lambda |
+| **Automation & scripting** | Shuffle workflows, API integration, Python, boto3, Flask; Bash fundamentals |
+| **Networking & systems** | Wireshark, TCP/IP, DNS, Linux/Ubuntu, Windows Server, VirtualBox and Docker |
+| **Security testing** | Nmap, Hydra, Impacket, DVWA and OWASP Juice Shop in authorized labs |
+| **Reporting** | Incident timelines, detection documentation, screenshots, troubleshooting and remediation recommendations |
+
+</details>
+
+<a id="credentials"></a>
+
+## 🎓 Education & Certification
+
+- **EduQual Level 3 Diploma in Cloud Cyber Security** — Al Nafi International College · Completed with **91%**
+- **Cybrixen Certified SOC Analyst (CCSA)** — Practical assessment covering SIEM/EDR investigations, alert correlation, attack timelines, true/false positive classification, and escalation
+- **FSc** — Completed in 2024 · **89.583%**
+- **Student of the Year** — Awarded by my FSc college
+
+## 💼 Experience & Community
+
+**FortifyWebX — Cybersecurity Internship · July–September 2026**  
+Completed practical assignments involving reconnaissance, vulnerability assessment, Linux/Windows security testing, web application testing, scanner development, and technical reporting.
+
+**Cybrixen — Ambassador**  
+Refer interested learners to Cybrixen and share cybersecurity learning opportunities through professional outreach.
+
+**Pakistan Network Solutions (PakNS) — Freelance Business Development Specialist**  
+Support outreach for cybersecurity consultancy and PECB professional training. This role is helping me develop communication skills and understand organizational security and training needs.
+
+<a id="direction"></a>
+
+## 🎯 Goals & Next Steps
+
+My immediate goal is to join a team as an **entry-level SOC Analyst or Cybersecurity Analyst**, where I can contribute to monitoring, investigation, and clear incident documentation while learning from experienced analysts. I'm open to **remote opportunities that accept candidates based in Pakistan**.
+
+My next steps are to:
+
+- Deepen my Splunk skills in alert correlation, detection tuning, and false-positive analysis.
+- Expand investigations across endpoint, network, and cloud evidence.
+- Improve Python/Bash scripting and Linux administration.
+- Strengthen automation with authentication, least-privilege access, reliable asset mapping, and analyst approval where appropriate.
+- Explore AI-assisted SOC workflows for enrichment and investigation summaries while keeping decisions grounded in evidence.
+
+Longer term, I plan to pursue a **BS in Computer Science** and grow into detection engineering and cloud security. I want to build useful security tools and detections that help analysts understand threats and respond with confidence.
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear." — Kali Linux motto</i>
+<a href="https://github.com/MUSFIRA-ZAFAR?tab=followers"><img src="https://img.shields.io/github/followers/MUSFIRA-ZAFAR?style=for-the-badge&amp;label=Followers&amp;color=2563eb" alt="GitHub followers"></a>
+<a href="https://github.com/MUSFIRA-ZAFAR?tab=repositories"><img src="https://img.shields.io/github/stars/MUSFIRA-ZAFAR?style=for-the-badge&amp;label=Portfolio%20Stars&amp;color=0891b2" alt="GitHub portfolio stars"></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MUSFIRA-ZAFAR&color=1D9E75&style=flat" alt="profile views" />
-</p>
-<!--
-**MUSFIRA-ZAFAR/MUSFIRA-ZAFAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary><strong>🗓️ Explore recent project updates and contributions</strong></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Latest repository commit |
+| --- | --- |
+| [Agent Tesla detection lab](https://github.com/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab/commits) | ![Latest Agent Tesla commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/agenttesla-sigma-detection-lab?style=flat-square&color=0891b2) |
+| [Cloud log auditing](https://github.com/MUSFIRA-ZAFAR/secops-cloud-log-auditing/commits) | ![Latest cloud auditing commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/secops-cloud-log-auditing?style=flat-square&color=0891b2) |
+| [IP isolation playbook](https://github.com/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook/commits) | ![Latest SOAR commit](https://img.shields.io/github/last-commit/MUSFIRA-ZAFAR/automated-IP-threat-isolation-playbook?style=flat-square&color=0891b2) |
+
+[View my contribution calendar on GitHub](https://github.com/MUSFIRA-ZAFAR) · [Browse all repositories](https://github.com/MUSFIRA-ZAFAR?tab=repositories)
+
+</details>
+
+<a id="connect"></a>
+
+## 🤝 Connect with Me
+
+I'm interested in blue-team projects, detection engineering, cloud investigations, and opportunities to learn with other cybersecurity practitioners.
+
+[LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
+
+---
+
+<p align="center"><em>Build the environment. Follow the evidence. Validate the detection. Share the learning.</em></p>
+
+
+<p align="center"><a href="#about">↑ Back to top</a></p>
